@@ -35,8 +35,7 @@ Apr 2024. Publish documentation, open source code.
 <br/>  
 
 
-## Social  
+## Links
 [Twitter](https://twitter.com/ManaLayer)  
-  
 
 [Website](http://mana.cc)  

@@ -32,6 +32,9 @@ Mar 2024. Mana testnet goes live.
 Apr 2024. Publish documentation, open source code.  
   
 
+May 2024. Mana mainnet goes live.
+
+
 <br/>  
 
 
